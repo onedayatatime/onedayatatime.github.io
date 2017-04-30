@@ -35,10 +35,48 @@
 
     
     <url>
-     <loc>/facts-about-spirit/</loc>
+     <loc>/human-spirit/</loc>
      <lastmod>2017-04-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+    <url>
+     <loc>/holy-spirit/</loc>
+     <lastmod>2017-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/evil-spirit/</loc>
+     <lastmod>2017-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/unanswered/human-spirit/</loc>
+     <lastmod>2017-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/unanswered/holy-spirit/</loc>
+     <lastmod>2017-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/unanswered/evil-spirit/</loc>
+     <lastmod>2017-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
