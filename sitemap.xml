@@ -19,7 +19,23 @@
 
     
     <url>
-     <loc>/functions/</loc>
+     <loc>/formation/</loc>
+     <lastmod>2017-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/architecture/</loc>
+     <lastmod>2017-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/facts-about-spirit/</loc>
      <lastmod>2017-04-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
